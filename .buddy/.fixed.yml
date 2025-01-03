@@ -1,0 +1,4 @@
+- pipeline: "Pipeline"
+  on: "CLICK"
+  fail_on_prepare_env_warning: true
+  resources: "XLARGE"
